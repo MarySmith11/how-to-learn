@@ -1,0 +1,10 @@
+.table__text {
+  line-height: 1.2em;
+  font-size: 18px;
+  margin: 0 0 20px;
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+.table__text:last-of-type {
+  margin-bottom: 0;
+}
